@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Stay Connected",
+    "description": "Keep in touch with loved ones to maintain emotional support and reduce loneliness.",
+    "category": "Social",
+    "importance": 5,
+    "source": "WHO",
+    "icon": "ic_community"
+  },
+  {
+    "title": "Exercise Regularly",
+    "description": "Engage in physical activity to boost endorphins and improve your overall mood.",
+    "category": "Self-care",
+    "importance": 5,
+    "source": "NHS",
+    "icon": "ic_fitness"
+  },
+  {
+    "title": "Practice Mindfulness",
+    "description": "Try meditation or breathing exercises to reduce anxiety and increase awareness.",
+    "category": "Self-care",
+    "importance": 4,
+    "source": "Mind.org",
+    "icon": "ic_mindfulness"
+  },
+  {
+    "title": "Talk to Someone",
+    "description": "Speak to a trusted friend or counselor if you’re feeling overwhelmed or sad.",
+    "category": "Support",
+    "importance": 5,
+    "source": "Mental Health America",
+    "icon": "ic_talk"
+  },
+  {
+    "title": "Sleep Well",
+    "description": "7–8 hours of sleep helps regulate emotions and reduce mental fatigue.",
+    "category": "Lifestyle",
+    "importance": 4,
+    "source": "Sleep Foundation",
+    "icon": "ic_sleep"
+  },
+  {
+    "title": "Limit Screen Time",
+    "description": "Avoid overstimulation by reducing social media and mobile screen usage.",
+    "category": "Digital Health",
+    "importance": 3,
+    "source": "DigitalWellbeing.gov",
+    "icon": "ic_screen_time"
+  },
+  {
+    "title": "Gratitude Practice",
+    "description": "Take time to reflect on 3 good things that happened today.",
+    "category": "Positivity",
+    "importance": 4,
+    "source": "PositivePsychology.com",
+    "icon": "ic_gratitude"
+  },
+  {
+    "title": "Seek Professional Help",
+    "description": "Therapists and psychologists can provide personalized mental health support.",
+    "category": "Emergency",
+    "importance": 5,
+    "source": "APA",
+    "icon": "ic_help"
+  },
+  {
+    "title": "Avoid Substance Abuse",
+    "description": "Stay away from alcohol and drugs which can worsen anxiety and depression.",
+    "category": "Health",
+    "importance": 5,
+    "source": "CDC",
+    "icon": "ic_no_drugs"
+  },
+  {
+    "title": "Call a Helpline",
+    "description": "If in crisis, call 116 123 (Samaritans) or a local emergency line.",
+    "category": "Emergency",
+    "importance": 5,
+    "source": "Samaritans",
+    "icon": "ic_helpline"
+  }
+]
